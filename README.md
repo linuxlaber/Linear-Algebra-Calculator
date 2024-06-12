@@ -1,6 +1,6 @@
 Version 1.0 Release Date: June 13, 2024
 
-Very messy. Folders and files were all over the place. I will fix it by Sunday? This is not yet the final product as this was the first version uploaded. Note also that the codes that calculates the sum of a matrix and more were not mine. I do not have the ability to make my own YET. However, nothing to worry as they can be found everywhere online. Don't download for now or else the filepaths will be your problem. Wait till I fix it by Sunday.
+For reference of the main program, click here [https://github.com/linuxlaber/Simulator](url). Very messy. Folders and files were all over the place. I will fix it by Sunday? This is not yet the final product as this was the first version uploaded. Note also that the codes that calculates the sum of a matrix and more were not mine. I do not have the ability to make my own YET. However, nothing to worry as they can be found everywhere online. Don't download for now or else the filepaths will be your problem. Wait till I fix it by Sunday.
 
 ![Simulator ng Linear](https://github.com/linuxlaber/Linear-Algebra-Calculator/assets/170599771/23b5647d-d0c1-49f5-b888-5d1fbd398004)
 
