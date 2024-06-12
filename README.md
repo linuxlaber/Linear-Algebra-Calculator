@@ -19,12 +19,13 @@ For reference of the main program, click here [https://github.com/linuxlaber/Sim
 ![sim 7](https://github.com/linuxlaber/Linear-Algebra-Calculator/assets/170599771/f2592d6e-aba5-4c81-b895-51e33aa3a5f5)
 
 Version 1.1 New Features:
-1.) Add GUI
+1.) Add GUI (ImGui library). My problem is that even the calculations must be included in the GUI. But I think I will start slow, start with only the main cpp first.
 2.) Add an explanation of the concept and example before the calculator begins
 3.) Fix the messy folders and remove unnecessary files
 4.) Lessen the filepaths to avoid opening of another program
 5.) Include step by step solution
 6.) Add more concept to calculate
+7.) Unsure if I should replace everything using the Eigen library. However, I might instead let other people do it.
 
 
 
