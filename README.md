@@ -24,6 +24,7 @@ Version 1.1 New Features:
 3.) Fix the messy folders and remove unnecessary files
 4.) Lessen the filepaths to avoid opening of another program
 5.) Include step by step solution
+6.) Add more concept to calculate
 
 
 
